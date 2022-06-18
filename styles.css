@@ -8,12 +8,14 @@ div{
 header{
     background: white;
     padding: 10px;
+    text-align: center;
 }
 header h1{
     margin: 0;
 }
 div.post{
     background: white;
+    margin-top: 15px;
 }
 div.post img{
     width: 100%;
@@ -24,7 +26,6 @@ div.post .post-header div:first-child{
 }
 div.post .post-header div:last-child{
     display: inline-block;
-    width: 20%;
     padding: 10px;
     text-align: right;
     color: gainsboro;
